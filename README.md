@@ -1,4 +1,6 @@
 [![travis](https://travis-ci.org/CassieLitch/biodemo.svg?branch=master)](https://travis-ci.org/CassieLitch/biodemo)
+[![codecov](https://codecov.io/github/d-cameron/biodaniel/branch/master/graphs/badge.svg)](https://codecov.io/github/d-cameron/biodaniel)
+
 
 # Overview 
 
